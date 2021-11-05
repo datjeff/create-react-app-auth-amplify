@@ -1,0 +1,9 @@
+{
+  "lambdaLayers": [],
+  "environmentVariableList": [
+    {
+      "cloudFormationParameterName": "virtualButtonCode",
+      "environmentVariableName": "virtual_button_code"
+    }
+  ]
+}

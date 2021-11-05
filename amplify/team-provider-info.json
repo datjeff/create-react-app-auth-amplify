@@ -1,0 +1,27 @@
+{
+  "deva": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authcra-deva-20145-authRole",
+      "UnauthRoleArn": "arn:aws:iam::391454661151:role/amplify-authcra-deva-20145-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::391454661151:role/amplify-authcra-deva-20145-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-authcra-deva-20145-deployment",
+      "UnauthRoleName": "amplify-authcra-deva-20145-unauthRole",
+      "StackName": "amplify-authcra-deva-20145",
+      "StackId": "arn:aws:cloudformation:us-east-1:391454661151:stack/amplify-authcra-deva-20145/29dd88a0-3d13-11ec-8fc8-0a4bfe5ebf63",
+      "AmplifyAppId": "d1za6ow4qqla59"
+    },
+    "categories": {
+      "auth": {
+        "cognitocf0c6096": {}
+      },
+      "function": {
+        "runRoutine": {
+          "virtualButtonCode": "https://api.virtualbuttons.com/v1?virtualButton=1&accessCode=amzn1.ask.account.AFYFV3E4DCGKJXHCVNV7K2RK372ZKFSCOO7CUIRRHKBUOOQ7AXSOPEHIJNEK25LGBZTF75RTV7YQ5VPRBYN5PR55DIGL4JFAHKP7GQCMCH2FM52JGV3VSZ2QPT4TV5GUT7F3RHIJ2FL4XJAJKT24WKIU723QJQHXMAYY6CPO5ZTGCP3C77JQMNOU7KCONUHFYP3UHMRM5ESMPAQ",
+          "deploymentBucketName": "amplify-authcra-deva-20145-deployment",
+          "s3Key": "amplify-builds/runRoutine-2b6a304178305a594564-build.zip"
+        }
+      }
+    }
+  }
+}
